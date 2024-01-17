@@ -1,0 +1,23 @@
+{
+    "localStorageConnectionError":"local storage connection error.",
+    "networkConnectionError":"Network connection error check the internet connection.",
+    "server404Error":"Server error 404 (server not found).",
+    "server400Error":"Server error 400 (Bad Request).",
+    "server401Error":"Server error 401 (Authentication credential).",
+    "server403Error":"Server error 403 (have no permission).",
+    "server500Error":"Server error 500 (Internal Server Error).",
+    "unKnownError":"unKnown error please try again later.",
+    "userError":"Bad Usage Of The App.",
+    "phoneUsedBefore":"this phone number is currently used",
+    "emailUsedBefore":"this email is currently used",
+    "profileSetting":"profile setting",
+    "about":"about",
+    "theme":"theme",
+    "language":"language",
+    "logout":"logout",
+    "search":"search",
+    "user":"user",
+    "content":"content",
+    "confirm":"confirm",
+    "cancel":"cancel"
+}

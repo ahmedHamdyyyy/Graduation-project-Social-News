@@ -1,0 +1,23 @@
+{
+    "localStorageConnectionError":".خطا بالاتصال بالذاكرة الداخلية",
+    "networkConnectionError":"لا يوجد اتصال بالانترنت.",
+    "server400Error":"خطا في الاتصال بالسيرفر (400)",
+    "server404Error":"خطا في الاتصال بالسيرفر (404)",
+    "server401Error":"خطا في الاتصال بالسيرفر (401)",
+    "server403Error":"خطا في الاتصال بالسيرفر (403)",
+    "server500Error":"خطا في الاتصال بالسيرفر (500)",
+    "unKnownError":"خطا غير متوقع",
+    "userError":"استخدام خاطئ للتطبيق",
+    "phoneUsedBefore":"رقم الهاتف مستخدم بالفعل",
+    "emailUsedBefore":"البريد الالكتروني مستخدم بالفعل",
+    "profileSetting":"اعداد الملف الشخصي",
+    "about":"عن التطبيق",
+    "theme":"شكل التطبيق",
+    "language":"اللغة",
+    "logout":"تسجيل خروج",
+    "search":"بحث",
+    "user":"مستخدم",
+    "content":"محتوي",
+    "confirm":"تاكيد",
+    "cancel":"الغاء"
+}
